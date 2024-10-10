@@ -8,3 +8,6 @@
 這個過程不僅僅是技術層面上的挑戰，更是一場對創造力和解決問題能力的考驗。透過不斷的實驗和調整，我努力找到最適合解決這個棘手問題的方法，並在比賽中展現出我所積累的技能和洞察力。這次參賽經歷不僅擴展了我的專業知識，也讓我深刻體會到在未知領域中挑戰自我的價值。期待在比賽中展現出色的表現，同時也期許這次經驗能夠成為我未來探索更多新領域的良好基石。
 
 檔案和模型存放位置: https://drive.google.com/drive/folders/18mrqtv2ojz1LfOz9MUntcNxxFNv3kYXF
+
+最終的成績達到了第15名
+![image](https://github.com/IcerZMa/2023_AI_CUP_GO/blob/main/final_rank.png?raw=true)
